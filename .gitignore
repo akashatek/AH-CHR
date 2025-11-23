@@ -1,0 +1,24 @@
+# Xcode
+.DS_Store
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/
+*.xcworkspace/xcshareddata/
+DerivedData/
+build/
+
+# CocoaPods
+Pods/
+.bundle/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Carthage
+Carthage/Build/
+
+# Other
+# Example: If you have a file named 'secrets.plist' that contains sensitive information
+# secrets.plist

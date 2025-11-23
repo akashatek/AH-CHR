@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		395DCA962ED33D6D00DFDD98 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 395DCA952ED33D6D00DFDD98 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		395DCA852ED33D1900DFDD98 /* AH-CHR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AH-CHR.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		395DCA952ED33D6D00DFDD98 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		395DCA7C2ED33D1900DFDD98 = {
 			isa = PBXGroup;
 			children = (
+				395DCA952ED33D6D00DFDD98 /* README.md */,
 				395DCA872ED33D1900DFDD98 /* AH-CHR */,
 				395DCA862ED33D1900DFDD98 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				395DCA962ED33D6D00DFDD98 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
